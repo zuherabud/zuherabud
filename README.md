@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zuherabud
-- 👀 I’m interested in ... CYBER SECURITY MACHINE LEARNING MOBILE APP AND WEB APP DEVELOPMENT
-- 🌱 I’m currently learning ... MACHINE LEARNING AND CYBER SECURITY
-- 💞️ I’m looking to collaborate on ... ANYTHING REALLY!!
+- 👀 I’m interested in ... Mobile an Web App development, Cyber Security and Machine Learning using Python and Flutter
+- 🌱 I’m currently learning ... Cyber Security and Machine Learning
+- 💞️ I’m looking to collaborate on ... Anything!!
 - 📫 How to reach me ... zuherabud@gmail.com || +254 114469481
 
 <!---
